@@ -3,3 +3,4 @@
 * Stack
 * Arrays
 * Queue
+* Linked List
